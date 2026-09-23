@@ -16,8 +16,8 @@ Torch 2.13.0+cu130
 
 .\python.exe -m pip install "https://github.com/woct0rdho/SageAttention/releases/download/v2.2.0-windows.post6/sageattention-2.2.0%2Bcu130torch2.10.0andhigher.post6-cp310-abi3-win_amd64.whl"
 
-接着正常安装 ：
-https://github.com/kijai/ComfyUI-KJNodes
+接着正常安装 ：  
+https://github.com/kijai/ComfyUI-KJNodes  
 https://github.com/Saganaki22/ComfyUI-sol-attn
 
 OK，重启comfyui
